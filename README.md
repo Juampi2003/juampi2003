@@ -1,4 +1,10 @@
-### Hi there 👋
+```
+Hola a todos! 👋
+```
+# *Juan Andre Erazo Jaimes* :smile:
+
+> Carrera: Ingeniería en Energías
+> Egresado: Colegio "Lindaura Anzoátegui de Campero 2"
 
 <!--
 **Juampi2003/juampi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
