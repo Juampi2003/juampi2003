@@ -1,22 +1,29 @@
 ```
-Hola a todos! 👋
+Bienvenido! 👋
 ```
-# *Juan Andre Erazo Jaimes* :smile:
-
-> Carrera: Ingeniería en Energías
-> Egresado: Colegio "Lindaura Anzoátegui de Campero 2"
-
-<!--
-**Juampi2003/juampi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# *Presentación: Juan Andre Erazo Jaimes* :smile:
+> **Fecha de nacimiento:** 26/03/2003
+>
+>> **Teléfono:** 78242716
+>
+>>> **Edad:** 19 años
+>
+>>>> **Hobbies:** Tocar la guitarra, jugar fútbol y futsal, jugar videojuegos
+>
+>>>>> **Carrera:** Ingeniería en Energías
+>
+>>>>>> **Semestre:** 4to Semestre
+>
+>>>>>>> **Correo electrónico institucional:** juan.erazo@ucb.edu.bo
+>
+>>>>>>>> **Ciudad:** Tarija-Cercado
+>
+>>>>>>>>> **Egresado:** Colegio "Lindaura Anzoátegui de Campero 2"
+>
+>>>>>>>>>> **Materias cursadas actualmente:** IMT-221 Circuitos Electrónicos III, IEN-210 Energía y Desarrollo Sostenible, IND-201 Ciencia de los Materiales, IND-210 Termodinámica y Laboratorio, INV-201 Metología de la Investigación, LEN-102 Inglés III, SIS-111 Introducción a la Programación
+> 
+>>>>>>>>>>> **Logros en mi etapa escolar:** Ser abanderado y parte de los mejores alumnos hasta mi 4to año de Secundaria
+>
+>>>>>>>>>>>> **Expectativas sobre mi carrera:** Realmente espero poder discenir los conceptos teóricos y dominar lo práctico de las distintas materias de todo mi ciclo universitario.
+>
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
